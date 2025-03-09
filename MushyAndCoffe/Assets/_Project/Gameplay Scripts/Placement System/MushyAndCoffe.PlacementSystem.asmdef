@@ -1,0 +1,21 @@
+{
+    "name": "MushyAndCoffe.PlacementSystem",
+    "rootNamespace": "MushyAndCoffe.PlacementSystem",
+    "references": [
+        "GUID:bd8fc6ea9ad8ff949a2a3a491acc58c0",
+        "GUID:73b32fe52e33b14489f6780236df0e35",
+        "GUID:651adf0d6d7550a448c3496b0c68ab53",
+        "GUID:2cc22522d41cc4f48a1ce1456b678603",
+        "GUID:a45b27a3969383c4e8acb400584b3175",
+        "GUID:5a2272bd96a59ed498f533bdd3466beb"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
